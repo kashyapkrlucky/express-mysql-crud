@@ -1,9 +1,3 @@
-# express-mysql-crud
- 
-Here's a README file for your Node.js and MySQL CRUD API project:
-
----
-
 # Express MySQL CRUD API
 
 This is a sample Express project demonstrating how to connect to a MySQL database and perform basic CRUD operations. The project uses Express.js as the web framework and `mysql2` as the MySQL client.
@@ -25,8 +19,8 @@ This is a sample Express project demonstrating how to connect to a MySQL databas
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/your-username/node-mysql-crud.git
-    cd node-mysql-crud
+    git clone https://github.com/kashyapkrlucky/express-mysql-crud.git
+    cd express-mysql-crud
     ```
 
 2. **Install dependencies**:
