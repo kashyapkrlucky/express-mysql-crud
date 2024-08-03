@@ -63,7 +63,7 @@ This is a sample Express project demonstrating how to connect to a MySQL databas
 ## Project Structure
 
 ```
-node-mysql-crud/
+express-mysql-crud/
 │
 ├── .env
 ├── index.js
